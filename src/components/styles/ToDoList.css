@@ -1,0 +1,12 @@
+li{
+    list-style: none;
+    font-size: 25px;
+    width: 50vw;
+    background-color: rgb(53, 53, 53);
+    margin: 10px 20px 10px 0px;
+    border-radius: 10px;
+    display: flex;
+    padding: 0px 20px;
+    align-items: center;
+    justify-content: space-between;
+}

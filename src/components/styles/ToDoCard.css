@@ -1,0 +1,8 @@
+.action{
+    display: flex;
+    gap: 20px;
+    /* width: 100px; */
+}
+i:hover{
+    cursor: pointer;
+}
